@@ -50,13 +50,30 @@ If you want to connect, discuss ideas, or just geek out over tech, shoot me an e
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/binoy-saren-712070258"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://instagram.com/binoy__saren"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://www.codechef.com/users/vivas_cascade"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/codechef.svg" height="40" style="fill:white;"/></a>
-  <a href="https://codeforces.com/profile/binoy_22"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40"/></a>
-  <a href="https://leetcode.com/binoy_saren"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/binoyjwr5l"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40"/></a>
+  <a href="https://linkedin.com/in/binoy-saren-712070258" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://instagram.com/binoy__saren" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://www.codechef.com/users/vivas_cascade" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/codechef.svg" height="40" style="fill:white;" />
+  </a>
+  <a href="https://codeforces.com/profile/binoy_22" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" />
+  </a>
+ <a href="https://leetcode.com/binoy_saren" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" />
+  </a>
+
+  <a href="https://auth.geeksforgeeks.org/user/binoyjwr5l" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40" />
+  </a>
+  <a href="https://github.com/binoysaren" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
 </p>
+
 
 ---
 
